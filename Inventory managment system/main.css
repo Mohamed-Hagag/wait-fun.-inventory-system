@@ -1,0 +1,11 @@
+.modify-form{
+    display: none;
+}
+
+#ok{
+    height: 40px;
+}
+
+#cancel{
+    height: 40px;
+}
